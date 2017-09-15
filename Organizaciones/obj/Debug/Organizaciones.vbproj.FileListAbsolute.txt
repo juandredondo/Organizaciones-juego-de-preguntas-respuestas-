@@ -1,0 +1,58 @@
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\bin\Debug\Organizaciones.exe
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\bin\Debug\Organizaciones.pdb
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\bin\Debug\Organizaciones.xml
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Form1.resources
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Resources.resources
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\Organizaciones.vbproj.GenerateResource.Cache
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\Organizaciones.exe
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\Organizaciones.xml
+C:\Documents and Settings\JUAN DAVID\Mis documentos\Visual Studio 2008\Projects\Organizaciones\Organizaciones\obj\Debug\Organizaciones.pdb
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.exe
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.xml
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.pdb
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.exe
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.pdb
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.xml
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\ResolveAssemblyReference.cache
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Form1.resources
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Resources.resources
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.vbproj.GenerateResource.Cache
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\office.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.FormPerdiste.resources
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.FormGanaste.resources
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.exe
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.xml
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.pdb
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.exe
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.pdb
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.xml
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Office.Interop.Word.dll
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\office.dll
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+Y:\Juan_David\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Vbe.Interop.dll
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\ResolveAssemblyReference.cache
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Form1.resources
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.FormPerdiste.resources
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Resources.resources
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.FormGanaste.resources
+Y:\Juan_David\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.vbproj.GenerateResource.Cache
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.exe
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.xml
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.pdb
+D:\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.exe
+D:\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.pdb
+D:\sena\Organizaciones\Organizaciones\bin\Debug\Organizaciones.xml
+D:\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\sena\Organizaciones\Organizaciones\bin\Debug\office.dll
+D:\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\sena\Organizaciones\Organizaciones\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\sena\Organizaciones\Organizaciones\obj\Debug\ResolveAssemblyReference.cache
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Form1.resources
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.FormPerdiste.resources
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.Resources.resources
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.FormGanaste.resources
+D:\sena\Organizaciones\Organizaciones\obj\Debug\Organizaciones.vbproj.GenerateResource.Cache

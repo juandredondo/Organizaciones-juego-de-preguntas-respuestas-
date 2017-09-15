@@ -1,0 +1,15 @@
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\Organizaciones.exe
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\Organizaciones.pdb
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\Organizaciones.xml
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\office.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\ResolveAssemblyReference.cache
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.ejemplo.resources
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.Form1.resources
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.Resources.resources
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.vbproj.GenerateResource.Cache
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.exe
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.xml
+D:\Juan_David\sena\Organizaciones\Organizaciones\obj\Release\Organizaciones.pdb
